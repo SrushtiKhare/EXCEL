@@ -1,30 +1,42 @@
-# 📊 D-Mart Retail Sales Dashboard (Excel)
+# 📊 D-Mart Retail Sales Analytics Dashboard
 
-## 📌 Project Overview
-
-The **D-Mart Retail Sales Dashboard** is an interactive Microsoft Excel project developed to analyze retail sales performance using data visualization techniques. The dashboard provides key business insights through KPIs, Pivot Tables, Pivot Charts, and Slicers, enabling users to explore sales trends across regions, categories, and time periods.
-
----
-
-## 🎯 Objective
-
-The objective of this project is to transform raw retail sales data into meaningful business insights by building an interactive dashboard that supports data-driven decision-making.
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4285F4?style=for-the-badge)
+![Dashboard](https://img.shields.io/badge/Dashboard-FF9800?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-6A1B9A?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 ---
 
-## 🛠️ Tools & Features Used
+## Project Overview
+
+This project showcases an interactive **Microsoft Excel dashboard** built to analyze D-Mart retail sales data. The dashboard transforms raw sales data into meaningful business insights through KPIs, Pivot Tables, Pivot Charts, and Slicers, helping users monitor sales performance and identify business trends.
+
+---
+
+## Objective
+
+- Analyze retail sales performance
+- Build an interactive dashboard
+- Track business KPIs
+- Identify sales trends
+- Support data-driven decision making
+
+---
+
+## 🛠️ Tools & Technologies
 
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
 - Slicers
-- Lookup Functions
 - Conditional Formatting
-- Data Cleaning & Preparation
+- Excel Functions
+- Data Cleaning
 
 ---
 
-## 📈 Dashboard Highlights
+## 📈 Dashboard Features
 
 - 💰 Total Sales
 - 📦 Total Quantity Sold
@@ -34,7 +46,8 @@ The objective of this project is to transform raw retail sales data into meaning
 - 🌍 Sales by Region
 - 🛒 Sales by Product Category
 - 📅 Monthly Sales Trend
-- 🎛️ Interactive Region & Category Filters
+- 📈 Profit by Region
+- 🎛️ Interactive Slicers
 
 ---
 
@@ -44,55 +57,74 @@ The objective of this project is to transform raw retail sales data into meaning
 
 ---
 
-## 📊 Key Insights
+## 💡 Key Insights
 
-- North region recorded the highest sales among all regions.
-- Electronics generated the highest sales across product categories.
-- The dashboard highlights monthly sales trends to identify seasonal patterns.
-- Interactive slicers enable dynamic analysis by region and product category.
+- Identified regional sales performance.
+- Compared product category sales.
+- Analyzed monthly sales trends.
+- Evaluated profitability across regions.
+- Enabled interactive analysis using slicers.
 
 ---
 
-## 💼 Skills Demonstrated
+## 🚀 Skills Demonstrated
 
 - Data Cleaning
 - Data Analysis
-- Data Visualization
 - Dashboard Development
-- Business Intelligence
-- Pivot Tables & Pivot Charts
+- Data Visualization
 - KPI Reporting
+- Business Intelligence
 - Microsoft Excel
 
 ---
 
-## 📂 Repository Contents
+## 📂 Repository Structure
 
-| File | Description |
-|------|-------------|
-| `Dataset_Dmart.xlsx` | Raw retail sales dataset |
-| `Dashboard.png` | Dashboard preview image |
-| `Dashboard.pdf` | Dashboard exported as PDF |
-| `README.md` | Project documentation |
+```text
+Dmart-Sales-Dashboard-Excel
+│
+├── Dataset_Dmart.xlsx
+├── Dashboard.png
+├── Dashboard.pdf
+└── README.md
+```
 
 ---
 
-## 🚀 How to Use
+## ▶️ How to Use
 
-1. Download the repository.
+1. Clone or download the repository.
 2. Open **Dataset_Dmart.xlsx** in Microsoft Excel.
-3. Go to the **Dashboard** worksheet.
-4. Use the **Region** and **Category** slicers to interact with the dashboard and explore different sales insights.
+3. Navigate to the **Dashboard** worksheet.
+4. Use the Region and Category slicers to interact with the dashboard.
 
 ---
 
-## 👩‍💻 Author
+## 📈 Future Improvements
+
+- Customer Segmentation Analysis
+- Product Performance Dashboard
+- Sales Forecasting
+- Power BI Dashboard
+
+---
+
+## 👩‍💻 About Me
 
 **Srushti Khare**
 
-- 💼 LinkedIn: https://www.linkedin.com/in/srushtikhare/
-- 💻 GitHub: https://github.com/SrushtiKhare
+🎓 **B.Sc. Computer Science Graduate (CGPA: 9.2)**
+
+📚 Currently pursuing **Data Science & Data Analytics with AI** at **IT Vedant**.
+
+💡 Passionate about transforming data into meaningful business insights through **Excel, SQL, Python, and Power BI**.
+
+### Connect with Me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/srushtikhare/
+- 💻 **GitHub:** https://github.com/SrushtiKhare
 
 ---
 
-⭐ If you found this project useful, feel free to star the repository!
+## ⭐ If you found this project helpful, consider giving it a star!
